@@ -58,7 +58,6 @@ Imports:
     magrittr,
     methods,
     png,
-    raster (>= 3.6.3),
     rlang,
     RColorBrewer,
     scales (>= 1.0.0),
@@ -76,7 +75,6 @@ Suggests:
     s2,
     shiny (>= 1.0.0),
     sp,
-    terra,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 Config/Needs/website: dplyr, ncdf4, rnaturalearth, tidyverse/tidytemplate
